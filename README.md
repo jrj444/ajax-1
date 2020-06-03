@@ -10,4 +10,4 @@ AJAX-练习
 - JSON加载
 - 模拟分页
   
-源码地址：/public/main.js
+源码地址：[main.js](https://github.com/jrj444/ajax-1/blob/master/public/main.js)
